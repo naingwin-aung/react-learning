@@ -1,0 +1,10 @@
+.expense {
+    width: 90vw;    
+    background-color: rgb(63, 63, 63);
+    padding: 20px;
+    margin: 20px auto;
+}
+
+p {
+    color: white;
+}
