@@ -6,4 +6,6 @@
     display: flex;
     justify-content: space-around;
     height: 10rem;
+    width: 90vw;
+    margin: 0 auto;
 }
